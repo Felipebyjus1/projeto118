@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+}
+
+button{
+    padding: 3px;
+    text-align: center;
+}
+
+canvas{
+    border-style: dashed;
+}
